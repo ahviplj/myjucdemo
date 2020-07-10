@@ -1,6 +1,7 @@
 # myjucdemo
 
 > 我的juc练习代码.
+> 加上工具类使用测试.
 
 ## fork me
 
